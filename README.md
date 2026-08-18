@@ -12,7 +12,7 @@ The project demonstrates practical skills across Data Engineering, SQL Analytics
 ---
 
 ##  Data Pipeline Architecture
-![Healthcare Analytics Dashboard](screenshots/Architecture.png)
+![Healthcare Analytics Dashboard](screenshots/architecture.png)
 
 ---
 
