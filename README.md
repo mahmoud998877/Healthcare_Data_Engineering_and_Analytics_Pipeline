@@ -12,20 +12,7 @@ The project demonstrates practical skills across Data Engineering, SQL Analytics
 ---
 
 ##  Data Pipeline Architecture
-
-Raw Healthcare Data
-        ↓
-Python / Pandas
-        ↓
-Data Exploration & Quality Checks
-        ↓
-Data Cleaning & Transformation
-        ↓
-SQL Server
-        ↓
-SQL Analysis & Analytical Views
-        ↓
-Power BI Dashboard
+![Healthcare Analytics Dashboard](screenshots/Architecture.png)
 
 ---
 
